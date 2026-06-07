@@ -4,17 +4,20 @@
 
 📍 London, England &nbsp;|&nbsp; 🎓 MSc Cyber Security, University of Portsmouth (Merit) &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/contactariful)
 
----
 
 ## 🛡️ About Me
 
-I'm a cybersecurity professional specialising in security operations, threat detection, and cloud security. My work spans SOC monitoring, incident response, vulnerability assessment, and governance — combining hands-on technical practice with a strong foundation in ISO 27001, NIST CSF, and GDPR.
+I'm a cybersecurity professional specialising in **security operations**, **GRC**, **threat detection**, and **cloud security**. My work spans SOC monitoring, incident response, vulnerability assessment, governance, risk, and compliance — combining hands-on technical practice with a strong foundation in ISO 27001, NIST CSF, UK GDPR, and risk frameworks.
 
-I build real security tools and labs rather than just studying theory. Every repository here reflects applied work: actual SPL queries I've run, Python automation I've written, and vulnerability assessments I've conducted.
+I build real security tools and labs rather than just studying theory. Every repository here reflects applied work: actual SPL queries I've run, Python automation I've written, phishing analysis, and vulnerability assessments I've conducted.
 
-Currently seeking a **SOC Analyst / Information Security Analyst** role in the UK or Ireland (open to Skilled Worker visa sponsorship).
+🎯 **Actively seeking entry-level opportunities in:**
+- **GRC (Governance, Risk & Compliance)**
+- **SOC (Security Operations Center)**
+- **DFIR (Digital Forensics & Incident Response)**
 
----
+📍 UK & Ireland | 🇬🇧 Open to Skilled Worker visa sponsorship
+
 
 ## 🏆 Certifications
 
